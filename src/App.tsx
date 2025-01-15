@@ -90,7 +90,7 @@ function App() {
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Candy className="h-8 w-8" />
-            <h1 className="text-2xl font-bold">Doces Delícia</h1>
+            <h1 className="text-2xl font-bold">Doce Demais</h1>
           </div>
           <div className="flex items-center gap-4">
             <button
@@ -373,7 +373,7 @@ function App() {
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-pink-500 text-center">
-            <p>&copy; 2024 Doces Delícia. Todos os direitos reservados.</p>
+            <p>&copy; 2024 Doce Demais. Todos os direitos reservados.</p>
           </div>
         </div>
       </footer>
