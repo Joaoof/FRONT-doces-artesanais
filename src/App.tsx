@@ -350,7 +350,7 @@ function App() {
               <h3 className="text-xl font-bold mb-4">Contato</h3>
               <div className="flex items-center gap-2 mb-2">
                 <Phone className="h-5 w-5" />
-                <span>(11) 99999-9999</span>
+                <span>(63) 99102-1043</span>
               </div>
               <div className="flex gap-4">
                 <a href="#" className="hover:text-pink-200 transition">
@@ -368,8 +368,8 @@ function App() {
             </div>
             <div>
               <h3 className="text-xl font-bold mb-4">Endereço</h3>
-              <p>Rua dos Doces, 123</p>
-              <p>São Paulo - SP</p>
+              <p>Setor Nova Araguaína - Rua 15 Quadra 68 Lote 05</p>
+              <p>To - Araguaína</p>
             </div>
           </div>
           <div className="mt-8 pt-8 border-t border-pink-500 text-center">
