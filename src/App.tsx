@@ -19,7 +19,7 @@ const produtos: Produto[] = [
     nome: 'Bombom de Maracujá',
     preco: 3.50,
     imagem: 'https://images.unsplash.com/photo-1597733153203-a54d0fbc47de?auto=format&fit=crop&w=500',
-    descricao: 'Brigadeiro artesanal com chocolate belga'
+    descricao: 'Bombom de Maracujá com Flocos de arroz com Chocolate'
   },
 ];
 
