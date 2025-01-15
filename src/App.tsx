@@ -40,6 +40,7 @@ function App() {
             : item
         );
       }
+      setCarrinhoAberto(true); // Abre automaticamente o carrinho quando um item for adicionado
       return [...carrinhoAtual, { ...produto, quantidade: 1 }];
     });
   };
