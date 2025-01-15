@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      input: '/mnt/c/Users/joaod/Downloads/doce-demais/project/index.html', // Caminho para o arquivo index.html
+      input: './index.html', // Caminho para o arquivo index.html
     },
   },
   optimizeDeps: {
